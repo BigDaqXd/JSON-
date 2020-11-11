@@ -1,4 +1,4 @@
- {
+{
     "status": "Revoked",
     "jailbreaks": [
     {
@@ -36,12 +36,8 @@
       "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
     },
     {
-      "app_name": "Instagram++",
-      "icon": "https://tutubox.io/img/Instagram++.png"
-     },
-     {
-      "app_name": "Tinder++",
-      "icon":"
+       "app_name": "Retroarch",
+      "icon": "https://tutubox.io/img/RetroArch.png"
     }
     ],
    "emulators": [
@@ -52,18 +48,6 @@
     {
       "app_name": "GBA4IOS",
       "icon": " https://tutubox.io/img/GBA4iOS.png"
-    },
-    {
-      "app_name": "Dolphin Ios",
-      "icon": "tutubox.io/img/DolphiniOSPatreon.png"
-    },
-    {
-      "app_name": "retroarch",
- "icon": "https://tutubox.io/img/DolphiniOSPatreon.png"
-    },  
-    {
-   
-  
     }
     ],
   "paid": [
@@ -72,7 +56,7 @@
       "icon": "https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icon-minecraft.png?w=585&scale=down"
     },
     {
-      "app_name": "GTA San Adreas",
+      "app_name": "GTA Sam Adreas",
       "icon": "https://www.rockstargames.com/sanandreas/image/mobile_fob.png"
      },
      {
