@@ -1,4 +1,4 @@
- {
+  {
      "jailbreaks": [
     {
       "app_name": "Odyssey",
@@ -26,15 +26,23 @@
       "app_name": "Deezer++",
       "icon": "https://cdn.iconscout.com/icon/free/png-512/deezer-461785.png"
     }
-    ],
-  "hacked": [
-    {
-      "app_name": "PandaHelper",
-      "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
-    },
-    {
+    {,
+    "app_name": "PandaHelper",
+      "icon": "https://panda-helper.org/wp-content/uploads/2018/10/panda-helper-original.jpg"
+      }
+      {,
       "app_name": "TutuApp",
       "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
+    }
+    ],
+  "emulators": [
+    {
+      "app_name": "delta",
+      "icon": "https://tutubox.io/img/Delta.png"
+    },
+    {
+      "app_name": "GBA4IOS",
+      "icon": " https://tutubox.io/img/GBA4iOS.png"
     }
   ],
   "paid": [
@@ -58,7 +66,11 @@
     },
     {
       "app_name": "EonHub",
-      "icon": "https://tutuapp-vip.com/eonhub/"
+      "icon": "https://miro.medium.com/max/400/1*hrDVqfjSV8JnvzIZfCmV4Q@2x.jpe"       
+    },
+    {
+        "app_name": "clip",
+      "icon": "https://tutubox.io/img/Clip.png"
     }
     ]
 }
