@@ -40,6 +40,14 @@
     {
       "app_name": "SoundCloud++",
       "icon": "https://tutubox.io/img/SoundCloud++.png" 
+    },
+    {
+      "app_name": "Tinder++",
+      "icon": "https://tutubox.io/img/T-Tinder++.png"
+    },
+    {
+      "app_name": "TextNow++",
+      "icon": "https://tutubox.io/img/TextNow++.png"
     }
     ],
    "emulators": [
