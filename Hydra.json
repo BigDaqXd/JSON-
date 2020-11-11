@@ -35,8 +35,12 @@
       "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
     },
     {
-       "app_name": "Retroarch",
-      "icon": "https://tutubox.io/img/RetroArch.png"
+      "app_name": "Instagram++",
+      "icon": "https://tutubox.io/img/Instagram++.png"
+     },
+     {
+      "app_name": "Tinder++",
+      "icon":"
     }
     ],
    "emulators": [
@@ -50,7 +54,15 @@
     },
     {
       "app_name": "Dolphin Ios",
-      "icon": "tutubox.io/img/DolphinIOSPatreon.png"
+      "icon": "tutubox.io/img/DolphiniOSPatreon.png"
+    },
+    {
+      "app_name": "retroarch",
+ "icon": "https://tutubox.io/img/DolphiniOSPatreon.png"
+    },  
+    {
+   
+  
     }
     ],
   "paid": [
