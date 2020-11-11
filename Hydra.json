@@ -1,5 +1,7 @@
 
   {
+    "status": "Revoked",
+    "other_status": "Signed",
     "jailbreaks": [
     {
      "app_name": "Odyssey",
@@ -36,7 +38,7 @@
       "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
     }
     ],
-   "Emulators": [
+   "emulators": [
     {
       "app_name": "Delta",
       "icon":"https://tutubox.io/img/Delta.png"
