@@ -1,5 +1,6 @@
-
   {
+    "status": "Revoked",
+    "other_status": "Signed",
     "jailbreaks": [
     {
      "app_name": "Odyssey",
