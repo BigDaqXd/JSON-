@@ -72,31 +72,14 @@
       "icon": " https://tutubox.io/img/GBA4iOS.png"
     }
     ],
-    "paid apps/games": [
-    {
-      "app_name": "minecraft",
-      "icon": "https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icon-minecraft.png?w=585&scale=down"
-    },
-    {
-      "app_name": "GTA Sam Adreas",
-      "icon": "https://www.rockstargames.com/sanandreas/image/mobile_fob.png"
-     },
-     {
-      "app_name": "Bloons TD6",
-      "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
-     },
-     {
-      "app_name": "8 Ball Pool",
-      "icon": "https://tutubox.io/img/8BallPoolHack.png"
-     }
-    ],
+      "app_name": "Retroarch",
+      "icon": "https://tutubox.io/img/RetroArch.png"
+ 
+   }
+  ],
   "other": [
-    {
-      "app_name": "TutuBox",
-      "icon": "https://tutubox.io/AppIcon.png"
-    },
-    {
-       "app_name": "iFap",
+    {    
+    "app_name": "iFap",
        "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
     },
     {
