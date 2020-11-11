@@ -40,6 +40,7 @@
       "app_name": "delta",
       "icon": "https://tutubox.io/img/Delta.png"
     },
+    {
       "app_name": "GBA4IOS",
       "icon": " https://tutubox.io/img/GBA4iOS.png"
     }
@@ -62,10 +63,6 @@
     {
       "app_name": "TutuBox",
       "icon": "https://tutubox.io/AppIcon.png"
-    },
-    {
-       "app_name": "ifap",
-       "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
     },
     {
       "app_name": "clip",
