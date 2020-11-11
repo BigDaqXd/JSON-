@@ -5,11 +5,11 @@
       "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
     },
     {
-      "app_name": "unc0ver",
+      "app_name": "Unc0ver",
       "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
   },
    {
-     "app_name": "electra",
+     "app_name": "Electra",
       "icon": "https://pbs.twimg.com/profile_images/1002909401014030343/FnmDOlHz_400x400.jpg"
    }
   ],
@@ -19,27 +19,27 @@
       "icon": "https://e7.pngegg.com/pngimages/833/349/png-clipart-spotify-logo-streaming-media-apple-music-others-hand-symbol.png"
     },
     {
-      "app_name": "cercube++",
+      "app_name": "Cercube++",
       "icon": "https://ipadownload.com/wp-content/uploads/2020/09/cercube_3_-_dribbble-150x150.png"
     },
     {
-      "app_name": "deezer++",
+      "app_name": "Deezer++",
       "icon": "https://cdn.iconscout.com/icon/free/png-512/deezer-461785.png"
     }
     ],
   "hacked": [
     {
-      "app_name": "panda helper",
+      "app_name": "PandaHelper",
       "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
     },
     {
-      "app_name": "tutuapp",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQof521Bpbcc5ZOlLiWlQBDpbQBy894b3Dq8l3FEchg&s"
+      "app_name": "TutuApp",
+      "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
     }
   ],
   "paid": [
     {
-      "app_name": "minecraft",
+      "app_name": "Minecraft",
       "icon": "https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icon-minecraft.png?w=585&scale=down"
     },
     {
@@ -53,11 +53,11 @@
   ],
   "other": [
     {
-      "app_name": "tutubox",
+      "app_name": "TutuBox",
       "icon": "https://tutubox.io/AppIcon.png"
     },
     {
-      "app_name": "eonhub",
+      "app_name": "EonHub",
       "icon": "https://tutuapp-vip.com/eonhub/"
     }
     ]
