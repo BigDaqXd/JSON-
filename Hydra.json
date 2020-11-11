@@ -25,7 +25,7 @@
     {
       "app_name": "Deezer++",
       "icon": "https://cdn.iconscout.com/icon/free/png-512/deezer-461785.png"
-    }
+    },
     {
     "app_name": "PandaHelper",
       "icon": "https://panda-helper.org/wp-content/uploads/2018/10/panda-helper-original.jpg"
@@ -69,7 +69,7 @@
       "icon": "https://miro.medium.com/max/400/1*hrDVqfjSV8JnvzIZfCmV4Q@2x.jpe"       
     },
     {
-        "app_name": "clip",
+      "app_name": "clip",
       "icon": "https://tutubox.io/img/Clip.png"
     }
     ]
