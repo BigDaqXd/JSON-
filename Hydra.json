@@ -1,5 +1,4 @@
-{
-  "jailbreaks": [
+     "jailbreaks": [
     {
       "app_name": "Odyssey",
       "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
@@ -7,7 +6,10 @@
     {
       "app_name": "unc0ver",
       "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
-    }
+  {
+   }
+     "app_name": "electra",
+      "icon": " https://zeejb.com/wp-content/uploads/2019/07/electra-app-icon-small.jpg"
   ],
   "tweaked": [
     {
@@ -15,18 +17,18 @@
       "icon": "https://e7.pngegg.com/pngimages/833/349/png-clipart-spotify-logo-streaming-media-apple-music-others-hand-symbol.png"
  },
     {
-      "app_name": "unc0ver",
-      "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
+      "app_name": "cercube++",
+      "icon": "https://ipadownload.com/wp-content/uploads/2020/09/cercube_3_-_dribbble-150x150.png"
     }
   ],
-  "hacked": [
+  "hydra apps": [
     {
-      "app_name": "Odyssey",
+      "app_name": "panda helper",
       "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
     },
     {
-      "app_name": "unc0ver",
-      "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
+      "app_name": "tutuapp",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQof521Bpbcc5ZOlLiWlQBDpbQBy894b3Dq8l3FEchg&s"
     }
   ],
   "paid": [
@@ -38,19 +40,17 @@
       "app_name": "GTA Sam Adreas",
       "icon": "https://www.rockstargames.com/sanandreas/image/mobile_fob.png"
      },
-     {
-      "app_name": "Bloons TD6",
-      "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
      }
-     ],
+      "app_name": "Bloons TD6"
+      "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
+    }
+  ],
   "other": [
     {
-      "app_name": "Tutuapp",
-      "icon": "https://imag.malavida.com/mvimgbig/download-fs/tutuapp-19768-0.jpg"
+      "app_name": "tutubox",
+      "icon": "https://tutubox.io/AppIcon.png"
     },
     {
-      "app_name": "unc0ver",
-      "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
+      "app_name": "eonhub",
+      "icon": "https://tutuapp-vip.com/eonhub/"
     }
-    ]
-}
