@@ -90,6 +90,19 @@
     {
       "app_name": "PicsArt++",
       "icon": " https://tutubox.io/img/PicsArt++.png"
+    },
+    {
+      "app_name": "Twitter++",
+      "icon": "https://tutubox.io/img/Twitter++.png"
+    },
+    {
+       "app_name": "Youtube Music++",
+      "icon": "https://tutubox.io/img/YouTubeMusic++.png" 
+    },
+    {
+       "app_name": "whatsapp++",
+      "icon": "https://tutubox.io/img/Watusi.png"
     }
+    
     ]
 }
