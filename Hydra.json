@@ -1,3 +1,4 @@
+ {
      "jailbreaks": [
     {
       "app_name": "Odyssey",
@@ -6,10 +7,11 @@
     {
       "app_name": "unc0ver",
       "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
-  {
-   }
+  },
+   {
      "app_name": "electra",
       "icon": " https://zeejb.com/wp-content/uploads/2019/07/electra-app-icon-small.jpg"
+   }
   ],
   "tweaked": [
     {
@@ -40,8 +42,8 @@
       "app_name": "GTA Sam Adreas",
       "icon": "https://www.rockstargames.com/sanandreas/image/mobile_fob.png"
      },
-     }
-      "app_name": "Bloons TD6"
+     {
+      "app_name": "Bloons TD6",
       "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
     }
   ],
@@ -54,3 +56,4 @@
       "app_name": "eonhub",
       "icon": "https://tutuapp-vip.com/eonhub/"
     }
+    ]
