@@ -39,7 +39,7 @@
       "icon": "https://tutubox.io/img/RetroArch.png"
     }
     ],
-   "Emulators": [
+   "emulators": [
     {
       "app_name": "Delta",
       "icon":"https://tutubox.io/img/Delta.png"
