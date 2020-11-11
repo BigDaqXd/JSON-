@@ -74,22 +74,18 @@
     ],
       "app_name": "Retroarch",
       "icon": "https://tutubox.io/img/RetroArch.png"
- 
-   }
-  ],
-  "other": [
-    {    
-    "app_name": "iFap",
-       "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
+      },
+   ]
+    "other": [
+    {
+      "app_name": "tutubox",
+      "icon": "https://tutubox.io/AppIcon.png"
     },
     {
-      "app_name": "Clip",
-      "icon": "https://tutubox.io/img/Clip.png"
-    },
-    {
-      "app_name": "PicsArt++",
-      "icon": " https://tutubox.io/img/PicsArt++.png"
+      "app_name": "eonhub",
+      "icon": "https://tutuapp-vip.com/eonhub/"
     }
     
-    ]
-}
+       
+  
+    
