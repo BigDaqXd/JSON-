@@ -10,7 +10,7 @@
   },
    {
      "app_name": "electra",
-      "icon": " https://zeejb.com/wp-content/uploads/2019/07/electra-app-icon-small.jpg"
+      "icon": "https://pbs.twimg.com/profile_images/1002909401014030343/FnmDOlHz_400x400.jpg"
    }
   ],
   "tweaked": [
@@ -22,7 +22,10 @@
       "app_name": "cercube++",
       "icon": "https://ipadownload.com/wp-content/uploads/2020/09/cercube_3_-_dribbble-150x150.png"
     }
-  ],
+      "app_name": "deezer++",
+      "icon": "https://cdn.iconscout.com/icon/free/png-512/deezer-461785.png"
+    }
+    ],
   "hacked": [
     {
       "app_name": "panda helper",
