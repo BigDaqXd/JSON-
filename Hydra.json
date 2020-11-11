@@ -47,6 +47,10 @@
     {
       "app_name": "GBA4IOS",
       "icon": " https://tutubox.io/img/GBA4iOS.png"
+    },
+    {
+      "app_name": "Dolphin Ios",
+      "icon": "tutubox.io/img/DolphinIOSPatreon.png"
     }
     ],
   "paid": [
