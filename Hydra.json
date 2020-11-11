@@ -38,7 +38,7 @@
     ],
    "Emulators": [
     {
-      "app_name": "delta",
+      "app_name": "Delta",
       "icon": "https://tutubox.io/img/Delta.png"
     },
     {
@@ -66,11 +66,11 @@
       "icon": "https://tutubox.io/AppIcon.png"
     },
     {
-       "app_name": "ifap",
+       "app_name": "iFap",
        "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
     },
     {
-      "app_name": "clip",
+      "app_name": "Clip",
       "icon": "https://tutubox.io/img/Clip.png"
     }
     ]
