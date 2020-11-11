@@ -35,8 +35,10 @@
       "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
     },
     {
-       "app_name": "Retroarch",
+      "app_name": "kinemaster++",
       "icon": "https://tutubox.io/img/RetroArch.png"
+     },
+     {
     }
     ],
    "emulators": [
@@ -49,6 +51,14 @@
       "icon": " https://tutubox.io/img/GBA4iOS.png"
     }
     ],
+       "app_name": "retroarch",
+        "icon": "https://tutubox.io/img/RetroArch.png"
+    },
+    {
+        "app_name": "Provenance",
+ "icon": "https://tutubox.io/img/Provenance.png"
+     }
+  ],
   "paid": [
     {
       "app_name": "Minecraft",
@@ -57,8 +67,8 @@
     {
       "app_name": "GTA Sam Adreas",
       "icon": "https://www.rockstargames.com/sanandreas/image/mobile_fob.png"
-     },
-     {
+    },
+    {
       "app_name": "Bloons TD6",
       "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
     }
