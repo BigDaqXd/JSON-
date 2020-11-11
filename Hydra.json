@@ -35,7 +35,7 @@
       "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
     }
     ],
-  "emulators": [
+   "Emulators": 
     {
       "app_name": "delta",
       "icon": "https://tutubox.io/img/Delta.png"
@@ -65,8 +65,8 @@
       "icon": "https://tutubox.io/AppIcon.png"
     },
     {
-      "app_name": "EonHub",
-      "icon": "https://miro.medium.com/max/400/1*hrDVqfjSV8JnvzIZfCmV4Q@2x.jpe"       
+       "app_name": "ifap",
+      "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
     },
     {
       "app_name": "clip",
