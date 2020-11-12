@@ -95,25 +95,9 @@
     {
       "app_name": "Bloons TD6",
       "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png" 
-    },
-    {
-      "app_name": "Asphalt 9 hack",
-      "icon": "https://tutubox.io/img/Asphalt9Hacked.png"
-    },
-    {
-      "app_name": "Among Us Hack",
-      "icon": "https://tutubox.io/img/AmomgUsHack.png"
-    },
-    {
-      "app_name": "8 pool ball ",
-      "icon": "https://tutubox.io/img/8BallPoolHack.png"
-    },
-    {
-      "app_name": "IPoGo",
-      "icon": "https://tutubox.io/img/iPoGo.png" 
-     } 
-    ],
-  "other": [
+    }
+   ],
+    "other": [
     {
       "app_name": "TutuBox",
       "icon": "https://tutubox.io/AppIcon.png"
