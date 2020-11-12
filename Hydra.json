@@ -110,11 +110,9 @@
     },
     {
       "app_name": "IPoGo",
-      "icon": "https://tutubox.io/img/iPoGo.png"
-    
-      }
-     ],
-
+      "icon": "https://tutubox.io/img/iPoGo.png" 
+     } 
+    ],
   "other": [
     {
       "app_name": "TutuBox",
