@@ -117,6 +117,10 @@
     {
       "app_name": "PPSSPP",
       "icon": "https://tutubox.io/img/PPSSPP.png"
+    },
+    {
+      "app_name": "Retroarch",
+      "icon":"https://tutubox.io/img/RetroArch.png"
      }
     ],
     
