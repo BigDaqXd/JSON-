@@ -106,6 +106,14 @@
     {
       "app_name": "Reddit++",
       "icon":"https://www.kindpng.com/picc/m/65-655530_reddit-share-button-reddit-icon-hd-png-download.png"
+    },
+    {
+       "app_name": "iFap",
+       "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
+    },
+    {
+       "app_name": "UTM",
+       "icon": "https://tutubox.io/img/UTM.png"
      }
     ],
    "emulators": [
@@ -147,7 +155,7 @@
      }
     ],
     
-        "paid": [
+        "Hacked Games": [
        {
              
       "app_name": "Asphalt 9 hack",
@@ -199,18 +207,20 @@
      } 
     ],
     
-     "other": [
+     "Jailbreak Apps ": [
        {  
-       "app_name": "iFap",
-       "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
+      "app_name": "sileo",
+      "icon":"https://ipafiles.ml/img/503.png"
     },
     {
-      "app_name": "Clip",
-      "icon": "https://tutubox.io/img/Clip.png"
+      "app_name": "Reprovision",
+      "icon":"https://ipafiles.ml/img/523.png"   
     },
     {
-      "app_name": "UTM",
-      "icon": "https://tutubox.io/img/UTM.png"
+    
+    },
+    {
+        
     }
     ]
 }
