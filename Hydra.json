@@ -64,7 +64,23 @@
     },
     {
       "app_name": "GBA4IOS",
-      "icon": " https://tutubox.io/img/GBA4iOS.png"
+      "icon": "https://tutubox.io/img/GBA4iOS.png"
+    },
+    {
+      "app_name": "Provenance",
+      "icon": "https://tutubox.io/img/Provenance.png"
+    },
+    {
+      "app_name": "Dolphin Ios",
+      "icon": "https://tutubox.io/img/DolphiniOSPatreon.png"
+    },
+    {
+      "app_name": "INDS",
+      "icon": "https://tutubox.io/img/iNDS.png"
+    },
+    {
+      "app_name": "ISSB",
+      "icon": "https://tutubox.io/img/iSSB.png"
      }
     ],
     "paid": [
