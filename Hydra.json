@@ -113,6 +113,10 @@
     {
       "app_name": "ISSB",
       "icon": "https://tutubox.io/img/iSSB.png"
+    },
+    {
+      "app_name": "PPSSPP",
+      "icon": "https://tutubox.io/img/PPSSPP.png"
      }
     ],
     
