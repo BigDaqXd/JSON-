@@ -8,7 +8,39 @@
     {
      "app_name": "Unc0ver",
      "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
-  },
+    },
+    {                  
+      "app_name": "Helix",
+      "icon": "https://tutubox.io/img/H3lix.png"
+    },
+    {
+      "app_name": "Chimera",
+      "icon": "https://tutubox.io/img/Chimera.png"
+    },
+    {
+      "app_name": "Etason",
+      "icon": "https://tutubox.io/img/Etason.png"
+    },
+    {
+      "app_name": "Home Depot (8.4.1)",
+      "icon": "https://tutubox.io/img/HomeDepot841.png"
+    },
+    {
+      "app_name": "Home Depot (9.3.4)",
+      "icon": "https://tutubox.io/img/HomeDepot841.png"
+    },
+    {
+      "app_name": "Phoenix",
+      "icon":"https://tutubox.io/img/Phoenix.png"
+    },
+    {
+      "app_name": "Unc0ver TV",
+      "icon": "https://tutubox.io/img/Unc0verTV.png"
+    },
+    {
+      "app_name": "Pangu(9.3.3)",
+      " icon": "https://tutubox.io/img/Pangu.png"
+   },
    {
      "app_name": "Electra",
       "icon": "https://pbs.twimg.com/profile_images/1002909401014030343/FnmDOlHz_400x400.jpg"
