@@ -11,12 +11,21 @@
   ],
   "tweaked": [
     {
-      "app_name": "Odyssey",
-      "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
+    "app_name": "Spotilife",
+    "icon": "https://tutubox.io/img/Spotilife+Sposify.png"
     },
     {
-      "app_name": "unc0ver",
-      "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
+     "app_name": "Cercube++",
+     "icon": "https://iosninja.io/img/ipas/cercube.png"
+    },
+    {
+     "app_name": "Tutuapp",
+     "icon": "https://tutubox.io/img/TutuAppVIP.png"
+    },
+    {
+     app_name": "Soundcloud++",
+     "icon": "https://tutubox.io/img/SoundCloud++.png"
+    
     }
   ],
   "hacked": [
