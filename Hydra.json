@@ -83,10 +83,24 @@
       "icon": "https://tutubox.io/img/iSSB.png"
      }
     ],
-    "Games": [
-      {
-      "app_name": "Minecraft",
-      "icon": "https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icon-minecraft.png?w=585&scale=down"
+    
+    "paid": [
+       {
+             
+      "app_name": "Asphalt 9 hack",
+      "icon": "https://tutubox.io/img/Asphalt9Hacked.png"
+    },
+    {
+      "app_name": "Among Us Hack",
+      "icon": "https://tutubox.io/img/AmomgUsHack.png"
+    },
+    {
+      "app_name": "8 pool ball ",
+      "icon": "https://tutubox.io/img/8BallPoolHack.png"
+    },
+    {
+      "app_name": "IPoGo",
+      "icon": "https://tutubox.io/img/iPoGo.png"
     },
     {
       "app_name": "GTA Sam Adreas",
@@ -94,15 +108,11 @@
     },
     {
       "app_name": "Bloons TD6",
-      "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png" 
+      "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
     }
    ],
-    "other": [
-    {
-      "app_name": "TutuBox",
-      "icon": "https://tutubox.io/AppIcon.png"
-    },
-    {
+     "other": [
+       {  
        "app_name": "iFap",
        "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
     },
