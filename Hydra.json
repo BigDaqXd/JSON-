@@ -121,6 +121,10 @@
     {
       "app_name": "Retroarch",
       "icon":"https://tutubox.io/img/RetroArch.png"
+    },
+    {
+      "app_name": "Remotr",
+      "icon":"https://tutubox.io/img/Remotr.png" 
      }
     ],
     
