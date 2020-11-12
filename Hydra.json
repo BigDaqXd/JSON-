@@ -109,6 +109,10 @@
     {
       "app_name": "Bloons TD6",
       "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
+    },
+    {
+      "app_name": "Fortnite",
+      "icon": "https://tutubox.io/img/FortniteTesting.png" 
     }
    ],
      "other": [
