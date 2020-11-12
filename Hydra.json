@@ -168,9 +168,21 @@
     {
       "app_name": "Pubg Hack",
       "icon": "https://tutubox.io/img/PUBGHacked.png"
-     
-    }
-   ],
+    },
+    {
+      "app_name": "FlappyBird",
+      "icon":"https://tutubox.io/img/FlappyBird.png"
+    },
+    {
+      "app_name": "Jetpack Joyride Hack",
+      "icon":"https://tutubox.io/img/JetpackJoyrideHack.png"
+    },
+    {
+      "app_name": "League Of Legends",
+      "icon":"https://tutubox.io/img/LeagueOfLegends.png"
+     } 
+    ],
+    
      "other": [
        {  
        "app_name": "iFap",
