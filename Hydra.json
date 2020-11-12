@@ -217,6 +217,10 @@
     {
       "app_name": "CCGEN",
       "icon": "https://ipafiles.ml/img/285.png"
+    },
+    {
+      "app_name": "Altstore",
+      "icon": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Altsore_icon.jpg"
     }
     ]
 }
