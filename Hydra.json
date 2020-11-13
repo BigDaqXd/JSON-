@@ -197,7 +197,11 @@
     },
     {
       "app_name": "Tereria++",
-      "icon":"https://static-s.aa-cdn.net/img/gp/20600001568274/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s300" 
+      "icon":"https://static-s.aa-cdn.net/img/gp/20600001568274/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s300"
+    },
+    {
+        "app_name": "Minecraft",
+      "icon": "https://glcometstale.com/wp-content/uploads/2019/09/Untitled-1.jpg"
      } 
     ],
     
