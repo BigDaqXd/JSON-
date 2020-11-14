@@ -98,6 +98,10 @@
     {
        "app_name": "UTM",
        "icon": "https://tutubox.io/img/UTM.png"
+    },
+    {
+       "app_name": "AppCake++
+       "icon": "https://iphonecake.com/app/icon.png"
      }
     ],
    "emulators": [
