@@ -98,6 +98,10 @@
     {
        "app_name": "UTM",
        "icon": "https://tutubox.io/img/UTM.png"
+    },
+    {
+       "app_name": "Totok",
+       "icon": "https://static.totok.ai/web/ToTok_logo.png"
      }
     ],
    "emulators": [
