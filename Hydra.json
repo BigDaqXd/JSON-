@@ -102,6 +102,10 @@
     {
        "app_name": "Totok",
        "icon": "https://static.totok.ai/web/ToTok_logo.png"
+    },
+    {
+      "app_name": "Idetector",
+      "icon": "https://ipafiles.ml/img/657.png"
      }
     ],
    "emulators": [
