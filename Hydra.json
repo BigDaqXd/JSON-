@@ -1,5 +1,5 @@
 {
-    "status": "Revoked",
+    "status": "revoked",
     "jailbreaks": [
     {
      "app_name": "Odyssey",
@@ -7,7 +7,7 @@
     },
     {
      "app_name": "Unc0ver",
-     "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
+     "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-  App-60x60%403x.png"
     },
     {                  
       "app_name": "Helix",
@@ -22,14 +22,26 @@
       "icon": "https://tutubox.io/img/Etason.png"
     },
     {
+      "app_name": "Home Depot (8.4.1)",
+      "icon": "https://tutubox.io/img/HomeDepot841.png"
+    },
+    {
+      "app_name": "Home Depot (9.3.4)",
+      "icon": "https://tutubox.io/img/HomeDepot841.png"
+    },
+    {
       "app_name": "Phoenix",
       "icon":"https://tutubox.io/img/Phoenix.png"
     },
     {
-      "app_name": "Pangu(9.3.3)",
-      "icon": "https://media.idownloadblog.com/wp-content/uploads/2014/06/Pangu-iOS-7.1.1.jpg"
+      "app_name": "Unc0ver TV",
+      "icon": "https://tutubox.io/img/Unc0verTV.png"
     },
     {
+      "app_name": "Pangu(9.3.3)",
+      "icon": "https://media.idownloadblog.com/wp-content/uploads/2014/06/Pangu-iOS-7.1.1.jpg"
+   },
+   {
      "app_name": "Electra",
       "icon": "https://pbs.twimg.com/profile_images/1002909401014030343/FnmDOlHz_400x400.jpg"
    }
@@ -98,12 +110,14 @@
     {
        "app_name": "UTM",
        "icon": "https://tutubox.io/img/UTM.png"
+    
     },
     {
        "app_name": "Totok",
        "icon": "https://static.totok.ai/web/ToTok_logo.png"
      }
     ],
+ 
    "emulators": [
     {
       "app_name": "Delta",
@@ -164,8 +178,7 @@
       "icon": "https://www.rockstargames.com/sanandreas/image/mobile_fob.png"
     },
     {
-
-        "app_name": "Bloons TD6",
+      "app_name": "Bloons TD6",
       "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
     },
     {
@@ -193,8 +206,8 @@
       "icon":"https://static-s.aa-cdn.net/img/gp/20600001568274/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s300"
     },
     {
-        "app_name": "Minecraft",
-      "icon": "https://glcometstale.com/wp-content/uploads/2019/09/Untitled-1.jpg"
+     "app_name": "Minecraft",
+     "icon": "https://glcometstale.com/wp-content/uploads/2019/09/Untitled-1.jpg"
     },
     {
      "app_name": "Alto's Odyssey",
@@ -202,9 +215,10 @@
      },
      {
      "app_name": "Wiz Khalifa's Weed Farm",
-     "icon":"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c1/64/b4/c164b4b9-e9ff-5392-8c00-1341b551eae0/source/512x512bb.jpg" 
+     "icon":"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c1/64/b4/c164b4b9-e9ff-5392-8c00-1341b551eae0/source/512x512bb.jpg"
      } 
     ],
+    
      "other": [
        {  
       "app_name": "sileo",
