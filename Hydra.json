@@ -195,6 +195,14 @@
     {
         "app_name": "Minecraft",
       "icon": "https://glcometstale.com/wp-content/uploads/2019/09/Untitled-1.jpg"
+      },
+    {
+     "app_name": "Alto's Odyssey",
+     "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b7/a2/e3/b7a2e362-be12-175e-1944-02a458fc76a5/source/100x100bb.jpg"
+     },
+     {
+     "app_name": "Wiz Khalifa's Weed Farm",
+     "icon":"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c1/64/b4/c164b4b9-e9ff-5392-8c00-1341b551eae0/source/512x512bb.jpg" 
      } 
     ],
     
