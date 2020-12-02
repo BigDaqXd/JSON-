@@ -210,12 +210,6 @@
      "icon":"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c1/64/b4/c164b4b9-e9ff-5392-8c00-1341b551eae0/source/512x512bb.jpg"
      } 
    ],
-    "VIP": [
-    {
-      "app_name": "Idetector",
-      "icon": "https://ipafiles.ml/img/657.png"
-      },
-     ]
      "other": [
        {  
       "app_name": "sileo",
