@@ -244,5 +244,12 @@
       "app_name": "Idetector",
       "icon": "https://ipafiles.ml/img/657.png"
     }
+    ],
+ 
+   "emulators": [
+    {
+      "app_name": "Idetector",
+      "icon": "https://ipafiles.ml/img/657.png"
+    }
     ]
 }
