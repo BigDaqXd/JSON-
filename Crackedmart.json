@@ -209,8 +209,13 @@
      "app_name": "Wiz Khalifa's Weed Farm",
      "icon":"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c1/64/b4/c164b4b9-e9ff-5392-8c00-1341b551eae0/source/512x512bb.jpg"
      } 
-    ],
-    
+   ],
+    "emulators": [
+    {
+      "app_name": "Idetector",
+      "icon": "https://ipafiles.ml/img/657.png"
+      },
+     ]
      "other": [
        {  
       "app_name": "sileo",
@@ -240,13 +245,6 @@
       "app_name": "Filza",
       "icon": "https://tutubox.io/img/PlankFilza.png"
     },
-    {
-      "app_name": "Idetector",
-      "icon": "https://ipafiles.ml/img/657.png"
-    }
-    ],
- 
-   "emulators": [
     {
       "app_name": "Idetector",
       "icon": "https://ipafiles.ml/img/657.png"
