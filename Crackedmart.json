@@ -212,9 +212,110 @@
    ],
     "VIP": [
        {  
-      "app_name": "MovieBoxPro",
-      "icon":"https://media.discordapp.net/attachments/735388956111405066/785528331906580480/image0.jpg"
-      }
+     "app_name": "Odyssey",
+     "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
+    },
+    {
+     "app_name": "Unc0ver",
+     "icon": "https://tutubox.io/img/unc0ver.png" 
+    },
+    {                  
+      "app_name": "Helix",
+      "icon": "https://tutubox.io/img/H3lix.png"
+    },
+    {
+      "app_name": "Chimera",
+      "icon": "https://tutubox.io/img/Chimera.png"
+    },
+    {
+      "app_name": "Etason",
+      "icon": "https://tutubox.io/img/Etason.png"
+    },
+    {
+      "app_name": "Phoenix",
+      "icon":"https://tutubox.io/img/Phoenix.png"
+    },
+    {
+      "app_name": "Pangu(9.3.3)",
+      "icon": "https://media.idownloadblog.com/wp-content/uploads/2014/06/Pangu-iOS-7.1.1.jpg"
+    },
+    {
+      "app_name": "Electra",
+      "icon": "https://pbs.twimg.com/profile_images/1002909401014030343/FnmDOlHz_400x400.jpg"
+    },
+    {
+      "app_name": "Spotilife",
+      "icon": "https://e7.pngegg.com/pngimages/833/349/png-clipart-spotify-logo-streaming-media-apple-music-others-hand-symbol.png"
+    },
+    {
+      "app_name": "Cercube++",
+      "icon": "https://media.discordapp.net/attachments/756413804794871848/785003253066760212/image0.jpg"
+    },
+    {
+      "app_name": "Deezer++",
+      "icon": "https://cdn.iconscout.com/icon/free/png-512/deezer-461785.png"
+    },
+    {
+      "app_name": "PandaHelper",
+      "icon": "https://panda-helper.org/wp-content/uploads/2018/10/panda-helper-original.jpg"
+    },
+    {
+      "app_name": "TutuApp",
+      "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
+    },
+    {
+      "app_name": "PandaHelper VIP",
+      "icon": "https://www.clipartkey.com/mpngs/m/210-2106532_helper-clipart-ipad-panda-helper-vip-free.png" 
+    },
+    {
+      "app_name": "Textnow++",
+      "icon": "https://tutubox.io/img/TextNow++.png"
+    },
+    {
+      "app_name": "Twitter++",
+      "icon": "https://tutubox.io/img/Twitter++.png"
+    },
+    {
+      "app_name": "Tinder++",
+      "icon": "https://tutubox.io/img/T-Tinder++.png"
+    },
+    {
+      "app_name": "CrunchyRoll",
+      "icon": "https://tutubox.io/img/CrunchyRoll++.png"
+    },
+    {
+      "app_name": "Facebook++",
+      "icon":"https://tutubox.io/img/Facebook++.png"
+    },
+    {
+       "app_name": "Facebook Wolf",
+       "icon":"https://tutubox.io/img/Facebook++.png"
+    },
+    {
+      "app_name": "MediaBox++",
+      "icon":"https://ipafiles.ml/img/466.png"
+    },
+    {  
+      "app_name": "AnimeGT++",
+      "icon":"https://ipafiles.ml/img/589.png"
+    },
+    {
+      "app_name": "Reddit++",
+      "icon":"https://www.kindpng.com/picc/m/65-655530_reddit-share-button-reddit-icon-hd-png-download.png"
+    },
+    {
+       "app_name": "iFap",
+       "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
+    },
+    {
+       "app_name": "UTM",
+       "icon": "https://tutubox.io/img/UTM.png"
+    
+    },
+    {
+       "app_name": "Totok",
+       "icon": "https://static.totok.ai/web/ToTok_logo."
+   }
     ],
      "JB Exclusives": [
        {  
